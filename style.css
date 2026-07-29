@@ -110,3 +110,11 @@ font-weight:bold;
 nav a:hover{
 color:#38bdf8;
 }
+#shop{
+background:#111827;
+}
+
+#shop .btn{
+display:inline-block;
+margin-top:15px;
+}
